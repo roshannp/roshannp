@@ -50,7 +50,7 @@ Built on AWS with Fully Homomorphic Encryption (FHE).
 | **Cloud**         | AWS (Lambda, EC2, S3, Athena), Terraform, HashiCorp Vault |
 | **Security**      | Burp Suite, Wireshark, Splunk, QRadar, IAM, SAST/DAST     |
 | **Dev & Infra**   | Docker, GitHub Actions, Firebase, Node.js, React          |
-| **Certs & Goals** | OSCP (in progress), Security+                             |
+| **Certs & Goals** | OSCP (in progress), Security+, CEH                             |
 
 ---
 
@@ -65,22 +65,8 @@ Built on AWS with Fully Homomorphic Encryption (FHE).
 * **IoT Data Platform (FINDR)**
   Delivered an Apollo GraphQL-backed solution with HashiCorp Vault, database credential rotation, and role-based access.
 
-*(Details and demos on [roshannp.github.io](http://roshannp.github.io))*
-
 ---
 
-## 🤝 Let’s Collaborate
-
-I'm open to working on:
-
-* Offensive security tooling and API fuzzers
-* Secure-by-design cloud infrastructure
-* Smart contract audits & blockchain security
-* Privacy-enhancing technologies (PETs)
-
-If you're building something impactful, I'd love to hear from you!
-
----
 
 > 📌 **Check out my portfolio** at [roshannp.github.io](http://roshannp.github.io)
 > for more projects, publications, and blog posts.
