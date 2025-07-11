@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m Roshan — a cybersecurity engineer with a passion f
 
 ## 🔍 What I Do
 
-I work at the intersection of **application security**, **cloud infrastructure**, and **data privacy**, often developing tools or pipelines that identify and mitigate security threats. My background includes:
+I work at the intersection of **network security** **application security**, **cloud infrastructure**, and **data privacy**, often developing tools or pipelines that identify and mitigate security threats. My background includes:
 
 * Security automation using **Python**, **Terraform**, and **AWS**
 * Vulnerability detection (e.g., prompt injection, reentrancy in smart contracts)
