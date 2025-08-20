@@ -1,9 +1,9 @@
 
-# 👋 Roshan Nellore Prasad
+# Hello!
 
 **Security Engineer**
 
-Welcome to my GitHub! I’m Roshan — a cybersecurity engineer with a passion for solving real-world security challenges and building scalable, privacy-preserving systems. I blend hands-on offensive security experience with deep knowledge of application development and cloud infrastructure.
+Welcome to my GitHub! I’m Roshan — passionate about solving complex security challenges across both Offensive and Defensive Security. I enjoy diving deep into vulnerabilities, threat patterns, and secure design principles.
 
 🌐 **[Portfolio → roshannp.github.io](http://roshannp.github.io)**
 📫 **[rone7552@colorado.edu](mailto:rone7552@colorado.edu)**
